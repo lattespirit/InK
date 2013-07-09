@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<nav class="ink-navigation">
+	<ul class="breadcrumbs">
+		<li><a href="#">${1:Home}</a></li>
+		<li><a href="#">${2:Products}</a></li>
+		<li><a href="#">${3:Category}</a></li>
+		<li class="active"><a href="#">${4:Current item}</a></li>
+	</ul>
+</nav>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ink:bre</tabTrigger>
+	<description>InK Breadcrumbs</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

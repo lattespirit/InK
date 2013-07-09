@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+<footer class="ink-vspace">
+	<div class="ink-container">
+		<nav class="ink-navigation">
+			<ul class="ink-footer-nav">
+				<li><a href="#">Footer item 1</a></li>
+				<li><a href="#">Footer item 2</a></li>
+				<li><a href="#">Footer item 3</a></li>
+			</ul>
+		</nav>
+		<p class="copyright">All stuff reverved<br>Stuff is a trademark created at the Stuff that make Stuff</p>
+	</div>
+</footer>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>inkfooter</tabTrigger>
+	<description>InK Footer</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

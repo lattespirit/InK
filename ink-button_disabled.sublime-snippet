@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<button class="ink-button" disabled>${1:Default}</button>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>inkdbtn</tabTrigger>
+	<description>InK Disabaled Button(Default)</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+<form action="" class="ink-form block">
+	<fieldset>
+		<legend>Group of checkboxes</legend>
+		<ul class="control-group required">
+			<li><p class="label">Select one, or more options.</p></li>
+			<li><input type="checkbox" id="cb1"><label for="cb1">Option 1</label></li>
+			<li><input type="checkbox" id="cb2"><label for="cb2">Option 2</label></li>
+			<li><input type="checkbox" id="cb3"><label for="cb3">Option 3</label></li>
+			<li><input type="checkbox" id="cb4"><label for="cb4">Option 4</label></li>
+		</ul>
+	</fieldset>
+</form>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ink:ch</tabTrigger>
+	<description>InK Group of Checkboxes</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

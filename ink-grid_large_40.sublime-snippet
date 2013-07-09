@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div class="ink-l40 ink-vspace">
+	
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ink:l40</tabTrigger>
+	<description>InK Grid Large 40%</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

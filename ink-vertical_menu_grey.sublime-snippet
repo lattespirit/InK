@@ -1,0 +1,26 @@
+<snippet>
+	<content><![CDATA[
+<nav class="ink-navigation">
+	<ul class="menu vertical grey">
+		<li><a href="#">${1:Item }</a></li>
+		<li><a href="#">${2:Item 1}</a></li>
+		<li><a href="#">${3:Item 2}</a></li>
+		<li><a href="#">${4:Item 3}</a></li>
+		<li><a href="#">${5:Item 4}</a></li>
+		<li>
+			<a href="#">${6:Item 5}</a>
+			<ul class="submenu">
+				<li><a href="#">SubItem 1</a></li>
+				<li><a href="#">SubItem 2</a></li>
+			</ul>
+		</li>
+	</ul>
+</nav>
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>inkvm:grey</tabTrigger>
+	<description>InK Vertical Menu Grey</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

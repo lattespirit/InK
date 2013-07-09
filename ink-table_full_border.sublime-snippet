@@ -1,0 +1,49 @@
+<snippet>
+	<content><![CDATA[
+<table class="ink-table ink-bordered ink-hover ">
+	<thead>
+		<tr>
+			<th>ID</th>
+			<th>Product name</th>
+			<th>Product price</th>
+		</tr>
+	</thead>
+
+	<tfoot>
+		<tr>
+			<td colspan="3">This is a table footer.</tr>
+		</tr>
+	</tfoot>
+
+	<tbody>
+		<tr>
+			<td>24</td>
+			<td>Twin color basketball shoe</td>
+			<td>$26.00</td>
+		</tr>
+		
+		<tr>
+			<td>13</td>
+			<td>Cast iron waffle maker</td>
+			<td>$158.00</td>
+		</tr>
+		
+		<tr>
+			<td>55</td>
+			<td>Sports duffle bag</td>
+			<td>$15.00</td>
+		</tr>
+		<tr>
+			<td>23</td>
+			<td>Some stuff</td>
+			<td>$385.00</td>
+		</tr>	
+	</tbody>
+</table>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>inktable:border</tabTrigger>
+	<description>InK Table Full Border</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

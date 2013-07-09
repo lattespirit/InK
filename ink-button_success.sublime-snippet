@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<button class="ink-button success">${1:Success}</button>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>inkbtn:s</tabTrigger>
+	<description>InK Success Button</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

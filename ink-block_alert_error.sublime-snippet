@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<div class="ink-alert-block error">
+	<button class="ink-close">&times;</button>
+	<h4>Already Login</h4>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe incidunt ratione sed distinctio iste.</p>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>inkbalert:e</tabTrigger>
+	<description>InK Block Alert Error</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,24 @@
+<snippet>
+	<content><![CDATA[
+<form action="" class="ink-form block">
+	<fieldset>
+		<legend>Group of radio buttons</legend>
+		<ul class="control-group">
+			<li>
+				<p class="label">Please select one option.</p>
+				<li><input type="radio" name="rb" id="rb1" value="rbOption-1"><label for="rb1">Option 1</label></li>
+				<li><input type="radio" name="rb" id="rb2" value="rbOption-2"><label for="rb2">Option 2</label></li>
+				<li><input type="radio" name="rb" id="rb3" value="rbOption-3"><label for="rb3">Option 3</label></li>
+				<li><input type="radio" name="rb" id="rb4" value="rbOption-4"><label for="rb4">Option 4</label></li>
+			</li>
+		</ul>
+	</fieldset>
+</form>
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ink:ra</tabTrigger>
+	<description>InK Group of Radio Buttons</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

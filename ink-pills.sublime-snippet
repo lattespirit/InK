@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<nav class="ink-navigation">
+	<ul class="pills">
+		<li class="disabled"><a href="#">Disabled Item</a></li>
+		<li class="active"><a href="#">Active Item</a></li>
+		<li><a href="#">Item</a></li>
+		<li><a href="#">Item</a></li>
+	</ul>
+</nav>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ink:pill</tabTrigger>
+	<description>InK Pills</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

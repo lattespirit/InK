@@ -1,0 +1,28 @@
+<snippet>
+	<content><![CDATA[
+<div class="ink-l100">
+	<div class="ink-row ink-vspace">
+		<div class="ink-l33">
+			<div class="ink-gutter">
+				<p class="ink-label info">33%</p>
+			</div>
+		</div>
+		<div class="ink-l33">
+			<div class="ink-gutter">
+				<p class="ink-label info">33%</p>
+			</div>
+		</div>
+		<div class="ink-l33">
+			<div class="ink-gutter">
+				<p class="ink-label info">33%</p>
+			</div>
+		</div>
+	</div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ink:l333333</tabTrigger>
+	<description>InK Grid Large Three 33%</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
